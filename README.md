@@ -12,7 +12,7 @@ Example usage:
     $ ls
     Procfile	build.xml	libs		src
 
-    $ heroku create --stack cedar --buildpack http://github.com/dennisg/heroku-buildpack-ant.git
+    $ heroku create --stack cedar --buildpack https://github.com/IntroSDE/heroku-buildpack-ant.git
     
     $ git push heroku master
     ...
